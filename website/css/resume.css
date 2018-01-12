@@ -116,10 +116,6 @@ a {
     color: #824027; }
 
 img {
-  display: flex;
-  align-items: flex-start;
-  flex-grow: 0;
-  width: 100%;
-  margin-bottom: auto;
+  max-width: 35rem;
 
 }
