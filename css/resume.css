@@ -119,3 +119,13 @@ img {
   max-width: 35rem;
 
 }
+
+.github {
+  text-decoration: underline;
+}
+
+.skills {
+  font-family: 'Open Sans', serif;
+  font-size: 1rem;
+  color: #868e96;
+  background-color: #E3F2FD}
