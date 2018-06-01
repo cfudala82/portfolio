@@ -6,7 +6,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #565D61;
   background-color: #E3F2FD;
   background-image: url("https://www.transparenttextures.com/patterns/retina-wood.png");
 }
@@ -14,7 +14,9 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem; } }
+    padding-left: 17rem; 
+  } 
+}
 
 h1,
 h2,
@@ -28,8 +30,9 @@ h6 {
   color: #343a40; }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem; }
+  font-size: 5.8rem;
+  line-height: 5.5rem;
+ }
 
 h2 {
   font-size: 3.5rem; }
@@ -95,13 +98,17 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
-    min-width: none; }
+
+    min-width: 25rem; }
 
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh; }
-    section.resume-section .resume-item .resume-date {
-      min-width: 18rem; } }
+    min-height: 100vh; 
+  }
+    section.resume-section .resume-item .resume-date  {
+      min-width: 18rem; 
+    } 
+  }
 
 @media (min-width: 992px) {
   section.resume-section {
@@ -120,8 +127,7 @@ a {
     color: #824027; }
 
 img {
-  max-width: 35rem;
-
+  max-width:18rem;
 }
 
 .github {
@@ -131,5 +137,6 @@ img {
 .skills {
   font-family: 'Open Sans', serif;
   font-size: 1rem;
-  color: #868e96;
-  background-color: #E3F2FD}
+  color: #565D61;
+  background-color: #E3F2FD
+}
