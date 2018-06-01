@@ -8,9 +8,6 @@ body {
   padding-top: 54px;
   color: #868e96;
   background-color: #E3F2FD;
-  /* background-image:  url("https://www.transparenttextures.com/patterns/redox-02.png"); */
-  /* background-image: url("https://www.transparenttextures.com/patterns/gplay.png"); */
-  /* background-image: url("https://www.transparenttextures.com/patterns/purty-wood.png"); */
   background-image: url("https://www.transparenttextures.com/patterns/retina-wood.png");
 
 }
@@ -70,12 +67,7 @@ h2 {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
-    /* background-image: url("https://www.transparenttextures.com/patterns/gplay.png"); */
-    /* background-image: url("https://www.transparenttextures.com/patterns/blu-stripes.png"); */
-    /* background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png"); */
-    /* background-image: url("https://www.transparenttextures.com/patterns/connected.png"); */
     background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
-    /* background-image: url("https://www.transparenttextures.com/patterns/padded.png"); */
   }
     #sideNav .navbar-brand {
       display: flex;
